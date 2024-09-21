@@ -1,6 +1,6 @@
 const mod = {
-    primaryName: "ω",
-    secondaryName: "Engine^2",
+    primaryName: "<span class='flipped-v'>Ω</span>",
+    secondaryName: "Layers Layers",
     version: "1.0.0",
     engineVer: "1.0.1", //DO NOT MODIFY
     debugMode: false,
